@@ -1,4 +1,4 @@
-# PWC_Internship
+# PWC_Virtual_Internship
 ![LOGO - 1](https://github.com/user-attachments/assets/67e39673-5b63-4adf-85a0-0d816c9c1c11)
 
 ## Task 1: Power BI Dashboard for Telecom Company
