@@ -70,6 +70,46 @@ Possible KPIs for customer retention include:
 ![TASK - 3 - CHURN](https://github.com/user-attachments/assets/81d11ad5-4b36-45a7-9bfc-9e86309ff0b2)
 
 
+# README for Task 4: Gender Balance and Diversity Analysis
+
+## Project Overview
+The purpose of this task is to analyze HR data focusing on gender balance and diversity at the executive management level. Despite significant efforts by the HR department, progress toward gender balance remains slow. This project aims to identify relevant KPIs, create effective visualizations, and suggest potential root causes for the lack of progress.
+
+---
+
+## Objectives
+1. Define key performance indicators (KPIs) related to hiring, promotion, performance, and turnover.
+2. Create visualizations that represent gender-related KPIs effectively.
+3. Analyze the HR data to understand trends and disparities.
+4. Identify potential root causes for the slow progress in achieving gender balance at the executive management level.
+
+---
+
+## Key Performance Indicators (KPIs)
+The following KPIs were defined to analyze the HR data effectively:
+1. **Hiring Metrics:**
+   - Number of men hired.
+   - Number of women hired.
+   - Percentage of hires that are women.
+
+2. **Promotion Metrics:**
+   - Percentage of employees promoted (FY21).
+   - Percentage of women promoted (FY21).
+
+3. **Turnover Metrics:**
+   - Total turnover rate.
+   - Number of male leavers.
+   - Number of female leavers.
+
+4. **Performance Metrics:**
+   - Average performance rating for men.
+   - Average performance rating for women.
+
+---
+
+![TASK - 4 - 1](https://github.com/user-attachments/assets/cd306492-8c8e-4998-90a1-f3b3fd121437)
+
+![TASK - 4 - 2](https://github.com/user-attachments/assets/c6f28ea2-8134-494c-8fa9-3441f9254b68)
 
 
 
